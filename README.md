@@ -29,3 +29,4 @@ devDependencies:
 + pnpm add --save-dev prisma
 + pnpm prisma init
 + pnpm prisma db push
++ pnpm up
