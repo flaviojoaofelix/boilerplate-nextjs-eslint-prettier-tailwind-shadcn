@@ -30,6 +30,7 @@ devDependencies:
 + pnpm prisma init
 + pnpm prisma db push
 + pnpm up
++ pnpm dlx shadcn-ui@latest init
 
 ### Tips ###
 
@@ -54,3 +55,4 @@ devDependencies:
 
 + <https://dev.to/azadshukor/setting-up-nextjs-13-with-prisma-and-sqlite-1lld>
 + <https://nextjs.org/docs/app/building-your-application/configuring/eslint>
++ <https://www.freecodecamp.org/news/shadcn-with-next-js-14/>
